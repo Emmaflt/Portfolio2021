@@ -1,0 +1,38 @@
+
+/* --------------------- r_sites_mda ------------------ */
+
+.txt_r_sites {
+    color: white;
+}
+
+.btn_r1 {
+    font-size: 0.8em;
+    color: white;
+    background-color: none;
+    text-align: center;
+    border-radius: 10px;
+    border:2px solid white;
+    cursor: pointer;
+    text-decoration: none;
+    transform: scale(1.5);
+    transition: background-color 0.7s ease;
+}
+
+.btn_r1:hover {
+    color: black;
+    background-color: white;
+    transition: background-color 0.7s ease;
+}
+
+
+
+/* --------------------- FIN r_sites_mda ------------------ */
+
+/* --------------------- r_jeux_ga ------------------ */
+
+.center_img {
+    margin: auto;
+}
+
+
+/* --------------------- FIN r_jeux_ga ------------------ */
