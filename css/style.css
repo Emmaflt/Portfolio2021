@@ -171,7 +171,7 @@ justify-content: space-around;
     background-color: black;
 }
 
-#txt_r {
+.txt_r {
     color: white;
 }
 
@@ -247,10 +247,6 @@ justify-content: space-around;
 .card-projet1:hover .overlay {
     opacity: 1;
 }
-
-
-
-
 
 
 /* --------------------- FIN Réalisations ------------------ */
