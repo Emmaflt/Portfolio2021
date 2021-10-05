@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
 @import url('https://fonts.googleapis.com/css2? family = Montserrat & display = swap');
 
+/* font-family: 'Alice', sans-serif;
+font-family: "Montserrat", sans-serif; */
 
 /* --------------------- ALL ------------------ */
 
@@ -12,6 +14,10 @@ body {
 /* --------------------- FIN ALL ------------------ */
 
 /* --------------------- NAVBAR ------------------ */
+
+.fontnav {
+    font-family: "Montserrat", sans-serif;
+}
 
 .navbar-light .navbar-toggler {
     background-color: white;
@@ -167,12 +173,22 @@ justify-content: space-around;
     background-color: rgba(0, 0, 0, 0.61);
 }
 
+.colori1 {
+    font-family: "Montserrat", sans-serif;
+}
+
 .corpi {
     background-color: black;
 }
 
 .txt_r {
     color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.txt_r1 {
+    color: white;
+    font-family: "Montserrat", sans-serif;
 }
 
 
@@ -308,10 +324,12 @@ justify-content: space-around;
 
 .titre1 {
     color: white;
+    font-family: 'Alice', sans-serif;
 }
  
 .texte1 {
     color: white; 
+    font-family: "Montserrat", sans-serif;
 }
 
 .apropos {
@@ -322,9 +340,11 @@ justify-content: space-around;
 .para_contact {
     text-align: center;
     color: white;
+    font-family: "Montserrat", sans-serif;
 }
 
 .CV {
+    font-family: "Montserrat", sans-serif;
     text-align: center;
     color: white;
     text-decoration: none;
