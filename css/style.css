@@ -11,6 +11,10 @@ body {
     background-color: black;
 }
 
+p {
+    font-size:1.2em;
+}
+
 /* --------------------- FIN ALL ------------------ */
 
 /* --------------------- NAVBAR ------------------ */
@@ -372,11 +376,21 @@ justify-content: space-around;
 
 /* --------------------- FIN A PROPOS ------------------ */
 
+/* --------------------- FOOTER ------------------ */
+/*  Texte du footer taille */
+.py-2 {
+    font-size:1.5em;
+}
+
+/* --------------------- FIN FOOTER ------------------ */
+
 
 @media screen and (max-width: 767px) {
+    p {
+        font-size:1em;
+    }
     .imgmoi {
         width: 90%;
         margin: auto;
-
     }
 }
